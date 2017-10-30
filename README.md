@@ -23,10 +23,15 @@ Chance, Community Chest fields on the board.
 
 Each time player stands or pass on the RE-ORG field he/she collect $200 and additionally draws a Re-Org card. If the card describes the action - the action takes place when the player stands/passes the RE-ORG field.
 
+That is why the actual fields are printed separately and placed on the board according to the 'Mapped fields' instructions (see below).
+
 ## Rules
 
-Mapped fields:
+* Mapped fields:
 https://docs.google.com/spreadsheets/d/1ypS979Q0GYNNYZZUWqCRKnxEFIwJ4zxGzrVgGw9fU4o/edit#gid=0
+* Start money: 2x $500, 2x $100, 2x $50, 6x $20, 5x $10, 5x $5, 5x $1
+* Some rules here as well:
+https://hobbylark.com/board-games/make-your-own-monopoly
 
 ## Cards
 
