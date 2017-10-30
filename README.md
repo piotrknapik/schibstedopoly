@@ -31,3 +31,4 @@ https://docs.google.com/spreadsheets/d/1ypS979Q0GYNNYZZUWqCRKnxEFIwJ4zxGzrVgGw9f
 * Community Chest: https://docs.google.com/document/d/1T1fXFXhjpb_PF0N9DaSAlzrC_R5d7H6alJlk3COvRjU/edit
 
 Other printables (like the board, movable fields, property cards and money) are in the print/ folder.
+Board was printed as two separate A3 sheets for our gaming - it was OK in that size.
