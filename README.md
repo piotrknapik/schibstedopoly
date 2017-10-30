@@ -5,6 +5,8 @@ Based on: https://hobbylark.com/board-games/make-your-own-monopoly and original 
 
 The game was created as a Hackday project in Schibsted Tech Polska by the team: Agnieszka, Piotyr, Greg & Mateusz. BTW - $chibstedopoly won.
 
+Version 0.8 (playable, tested!)
+
 ## Missing...
 
 Chance, Community Chest fields on the board.
