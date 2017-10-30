@@ -3,6 +3,8 @@
 Tool for the employees so they could tame any re-org. Playing $chibstedopoly could end up having Aftenposten as a Rocket site and so on. Tested as playable Monopoly-clone ;)
 Based on: https://hobbylark.com/board-games/make-your-own-monopoly and original game as well ofc.
 
+The game was created as a Hackday project in Schibsted Tech Polska by the team: Agnieszka, Piotyr, Greg & Mateusz.
+
 ## Missing...
 
 Chance, Community Chest fields on the board.
