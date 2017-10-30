@@ -3,6 +3,10 @@
 Tool for the employees so they could tame any re-org. Playing $chibstedopoly could end up having Aftenposten as a Rocket site and so on. Tested as playable Monopoly-clone ;)
 Based on: https://hobbylark.com/board-games/make-your-own-monopoly and original game as well ofc.
 
+## Missing...
+
+Chance, Community Chest fields on the board.
+
 ## Glossary: adjustments etc.
 
 * The fields on the board are Sites (Schibsted sites, like VG or Leboncoin) 
